@@ -1,0 +1,12 @@
+.qodo
+node_modules
+middleware
+models
+routes
+services
+templates
+test
+utils
+config
+package.json
+package-lock.json
